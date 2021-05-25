@@ -1,4 +1,5 @@
-# dynamic_form
+# 动态表单demo
+实现基于ElementUI的动态表单。
 
 ## Project setup
 ```
